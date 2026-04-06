@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2026-04-06 at 9 21 05 PM" src="https://github.com/user-attachments/assets/d8050ce8-fc06-45f9-a7f2-a4fd349b746f" /># 🗄️ Retail Sales Analysis (SQL)
+# 🗄️ Retail Sales Analysis (SQL)
 
 ## 📌 Overview
 
@@ -49,6 +49,7 @@ It uses basic tables like customers, products, and orders to understand sales da
 ## 📸 Sample Output
 
 (Screenshots added showing table data, join results, and revenue calculation)
+<img width="1470" height="956" alt="Screenshot 2026-04-06 at 9 21 05 PM" src="https://github.com/user-attachments/assets/d8050ce8-fc06-45f9-a7f2-a4fd349b746f" />
 
 ![Uploading Screenshot 2026<img width="1470" height="956" alt="Screenshot 2026-04-06 at 9 22 31 PM" src="https://github.com/user-attachments/assets/e471c224-0e3f-41e6-9d94-0911562a5b3a" />
 <img width="1470" height="956" alt="Screenshot 2026-04-06 at 9 21 47 PM" src="https://github.com/user-attachments/assets/708636c9-ae97-4aeb-9bf2-4ccccec7ba35" />
