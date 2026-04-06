@@ -61,7 +61,7 @@ It uses basic tables like customers, products, and orders to understand sales da
 <img width="1470" height="956" alt="Screenshot 2026-04-06 at 9 22 55 PM" src="https://github.com/user-attachments/assets/0aa84627-a237-4b26-88e8-568573239f07" />
 <img width="1470" height="956" alt="Screenshot 2026-04-06 at 9 22 48 PM" src="https://github.com/user-attachments/assets/119d71a5-9e53-4612-b446-1ba93905bd35" />
 
----
+--- 
 
 ## 💡 Key Learnings
 
